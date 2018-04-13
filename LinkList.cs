@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SingleLinkList
+namespace DataStructure
 {
     // 链表节点
     public class Node<T>
